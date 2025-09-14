@@ -182,11 +182,14 @@ next_turn(snake, food)
 
 window.mainloop()
 
-<img width="1920" height="1080" alt="Screenshot 2025-09-14 112058" src="https://github.com/user-attachments/assets/18753521-55f0-48d1-9b3c-f8bd592f0652" />
+<img width="1920" height="1080" alt="Screenshot 2025-09-14 112058" src="https://github.com/user-attachments/assets/c5ad6a97-7be8-45c9-a431-d6424b7ccece" />
 
-<img width="1920" height="1080" alt="Screenshot 2025-09-14 112147" src="https://github.com/user-attachments/assets/d3d4e9f8-338b-4891-8fe5-17cb929ae74f" />
 
-![WhatsApp Image 2025-09-13 at 17 31 16_55f38bb7](https://github.com/user-attachments/assets/443e5b2d-1cea-4f09-9fe6-8e91243eb0c0)
+<img width="1920" height="1080" alt="Screenshot 2025-09-14 112147" src="https://github.com/user-attachments/assets/1b1bd457-e5dc-4ff5-92ae-e7aa89612ebb" />
+
+
+<img width="524" height="684" alt="Screenshot 2025-09-14 132150" src="https://github.com/user-attachments/assets/149d50de-834a-4ecd-b793-cc8779a21b97" />
+
 
 
 PENJELASAN
